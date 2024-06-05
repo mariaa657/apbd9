@@ -1,0 +1,88 @@
+C:\Users\Maria Leonczuk\RiderProjects\z9\IRepository\bin\Debug\net8.0\IRepository.deps.json
+C:\Users\Maria Leonczuk\RiderProjects\z9\IRepository\bin\Debug\net8.0\IRepository.runtimeconfig.json
+C:\Users\Maria Leonczuk\RiderProjects\z9\IRepository\bin\Debug\net8.0\IRepository.dll
+C:\Users\Maria Leonczuk\RiderProjects\z9\IRepository\bin\Debug\net8.0\IRepository.pdb
+C:\Users\Maria Leonczuk\RiderProjects\z9\IRepository\obj\Debug\net8.0\IRepository.csproj.AssemblyReference.cache
+C:\Users\Maria Leonczuk\RiderProjects\z9\IRepository\obj\Debug\net8.0\IRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maria Leonczuk\RiderProjects\z9\IRepository\obj\Debug\net8.0\IRepository.AssemblyInfoInputs.cache
+C:\Users\Maria Leonczuk\RiderProjects\z9\IRepository\obj\Debug\net8.0\IRepository.AssemblyInfo.cs
+C:\Users\Maria Leonczuk\RiderProjects\z9\IRepository\obj\Debug\net8.0\IRepository.csproj.CoreCompileInputs.cache
+C:\Users\Maria Leonczuk\RiderProjects\z9\IRepository\obj\Debug\net8.0\IRepository.sourcelink.json
+C:\Users\Maria Leonczuk\RiderProjects\z9\IRepository\obj\Debug\net8.0\IRepository.dll
+C:\Users\Maria Leonczuk\RiderProjects\z9\IRepository\obj\Debug\net8.0\refint\IRepository.dll
+C:\Users\Maria Leonczuk\RiderProjects\z9\IRepository\obj\Debug\net8.0\IRepository.pdb
+C:\Users\Maria Leonczuk\RiderProjects\z9\IRepository\obj\Debug\net8.0\IRepository.genruntimeconfig.cache
+C:\Users\Maria Leonczuk\RiderProjects\z9\IRepository\obj\Debug\net8.0\ref\IRepository.dll
+C:\Users\Maria Leonczuk\RiderProjects\z9\IRepository\bin\Debug\net8.0\Models.dll
+C:\Users\Maria Leonczuk\RiderProjects\z9\IRepository\bin\Debug\net8.0\Models.pdb
+C:\Users\Maria Leonczuk\RiderProjects\z9\IRepository\obj\Debug\net8.0\IReposit.1D40EF52.Up2Date
+C:\Nowy folder\z9 (1)\z9\IRepository\bin\Debug\net8.0\IRepository.deps.json
+C:\Nowy folder\z9 (1)\z9\IRepository\bin\Debug\net8.0\IRepository.runtimeconfig.json
+C:\Nowy folder\z9 (1)\z9\IRepository\bin\Debug\net8.0\IRepository.dll
+C:\Nowy folder\z9 (1)\z9\IRepository\bin\Debug\net8.0\IRepository.pdb
+C:\Nowy folder\z9 (1)\z9\IRepository\bin\Debug\net8.0\Models.dll
+C:\Nowy folder\z9 (1)\z9\IRepository\bin\Debug\net8.0\Models.pdb
+C:\Nowy folder\z9 (1)\z9\IRepository\obj\Debug\net8.0\IRepository.csproj.AssemblyReference.cache
+C:\Nowy folder\z9 (1)\z9\IRepository\obj\Debug\net8.0\IRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nowy folder\z9 (1)\z9\IRepository\obj\Debug\net8.0\IRepository.AssemblyInfoInputs.cache
+C:\Nowy folder\z9 (1)\z9\IRepository\obj\Debug\net8.0\IRepository.AssemblyInfo.cs
+C:\Nowy folder\z9 (1)\z9\IRepository\obj\Debug\net8.0\IRepository.csproj.CoreCompileInputs.cache
+C:\Nowy folder\z9 (1)\z9\IRepository\obj\Debug\net8.0\IReposit.1D40EF52.Up2Date
+C:\Nowy folder\z9 (1)\z9\IRepository\obj\Debug\net8.0\IRepository.dll
+C:\Nowy folder\z9 (1)\z9\IRepository\obj\Debug\net8.0\refint\IRepository.dll
+C:\Nowy folder\z9 (1)\z9\IRepository\obj\Debug\net8.0\IRepository.pdb
+C:\Nowy folder\z9 (1)\z9\IRepository\obj\Debug\net8.0\IRepository.genruntimeconfig.cache
+C:\Nowy folder\z9 (1)\z9\IRepository\obj\Debug\net8.0\ref\IRepository.dll
+C:\Users\Maria Leonczuk\Downloads\z9_fixed\z9\IRepository\bin\Debug\net8.0\IRepository.deps.json
+C:\Users\Maria Leonczuk\Downloads\z9_fixed\z9\IRepository\bin\Debug\net8.0\IRepository.runtimeconfig.json
+C:\Users\Maria Leonczuk\Downloads\z9_fixed\z9\IRepository\bin\Debug\net8.0\IRepository.dll
+C:\Users\Maria Leonczuk\Downloads\z9_fixed\z9\IRepository\bin\Debug\net8.0\IRepository.pdb
+C:\Users\Maria Leonczuk\Downloads\z9_fixed\z9\IRepository\bin\Debug\net8.0\Models.dll
+C:\Users\Maria Leonczuk\Downloads\z9_fixed\z9\IRepository\bin\Debug\net8.0\Models.pdb
+C:\Users\Maria Leonczuk\Downloads\z9_fixed\z9\IRepository\obj\Debug\net8.0\IRepository.csproj.AssemblyReference.cache
+C:\Users\Maria Leonczuk\Downloads\z9_fixed\z9\IRepository\obj\Debug\net8.0\IRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maria Leonczuk\Downloads\z9_fixed\z9\IRepository\obj\Debug\net8.0\IRepository.AssemblyInfoInputs.cache
+C:\Users\Maria Leonczuk\Downloads\z9_fixed\z9\IRepository\obj\Debug\net8.0\IRepository.AssemblyInfo.cs
+C:\Users\Maria Leonczuk\Downloads\z9_fixed\z9\IRepository\obj\Debug\net8.0\IRepository.csproj.CoreCompileInputs.cache
+C:\Users\Maria Leonczuk\Downloads\z9_fixed\z9\IRepository\obj\Debug\net8.0\IRepository.sourcelink.json
+C:\Users\Maria Leonczuk\Downloads\z9_fixed\z9\IRepository\obj\Debug\net8.0\IReposit.1D40EF52.Up2Date
+C:\Users\Maria Leonczuk\Downloads\z9_fixed\z9\IRepository\obj\Debug\net8.0\IRepository.dll
+C:\Users\Maria Leonczuk\Downloads\z9_fixed\z9\IRepository\obj\Debug\net8.0\refint\IRepository.dll
+C:\Users\Maria Leonczuk\Downloads\z9_fixed\z9\IRepository\obj\Debug\net8.0\IRepository.pdb
+C:\Users\Maria Leonczuk\Downloads\z9_fixed\z9\IRepository\obj\Debug\net8.0\IRepository.genruntimeconfig.cache
+C:\Users\Maria Leonczuk\Downloads\z9_fixed\z9\IRepository\obj\Debug\net8.0\ref\IRepository.dll
+C:\Nowy folder\z9_fixed\z9_fixed\z9\IRepository\bin\Debug\net8.0\IRepository.deps.json
+C:\Nowy folder\z9_fixed\z9_fixed\z9\IRepository\bin\Debug\net8.0\IRepository.runtimeconfig.json
+C:\Nowy folder\z9_fixed\z9_fixed\z9\IRepository\bin\Debug\net8.0\IRepository.dll
+C:\Nowy folder\z9_fixed\z9_fixed\z9\IRepository\bin\Debug\net8.0\IRepository.pdb
+C:\Nowy folder\z9_fixed\z9_fixed\z9\IRepository\bin\Debug\net8.0\Models.dll
+C:\Nowy folder\z9_fixed\z9_fixed\z9\IRepository\bin\Debug\net8.0\Models.pdb
+C:\Nowy folder\z9_fixed\z9_fixed\z9\IRepository\obj\Debug\net8.0\IRepository.csproj.AssemblyReference.cache
+C:\Nowy folder\z9_fixed\z9_fixed\z9\IRepository\obj\Debug\net8.0\IRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nowy folder\z9_fixed\z9_fixed\z9\IRepository\obj\Debug\net8.0\IRepository.AssemblyInfoInputs.cache
+C:\Nowy folder\z9_fixed\z9_fixed\z9\IRepository\obj\Debug\net8.0\IRepository.AssemblyInfo.cs
+C:\Nowy folder\z9_fixed\z9_fixed\z9\IRepository\obj\Debug\net8.0\IRepository.csproj.CoreCompileInputs.cache
+C:\Nowy folder\z9_fixed\z9_fixed\z9\IRepository\obj\Debug\net8.0\IReposit.1D40EF52.Up2Date
+C:\Nowy folder\z9_fixed\z9_fixed\z9\IRepository\obj\Debug\net8.0\IRepository.dll
+C:\Nowy folder\z9_fixed\z9_fixed\z9\IRepository\obj\Debug\net8.0\refint\IRepository.dll
+C:\Nowy folder\z9_fixed\z9_fixed\z9\IRepository\obj\Debug\net8.0\IRepository.pdb
+C:\Nowy folder\z9_fixed\z9_fixed\z9\IRepository\obj\Debug\net8.0\IRepository.genruntimeconfig.cache
+C:\Nowy folder\z9_fixed\z9_fixed\z9\IRepository\obj\Debug\net8.0\ref\IRepository.dll
+C:\Users\Maria Leonczuk\Downloads\z9_fixed_2\z9_fixed\z9_fixed\z9\IRepository\bin\Debug\net8.0\IRepository.deps.json
+C:\Users\Maria Leonczuk\Downloads\z9_fixed_2\z9_fixed\z9_fixed\z9\IRepository\bin\Debug\net8.0\IRepository.runtimeconfig.json
+C:\Users\Maria Leonczuk\Downloads\z9_fixed_2\z9_fixed\z9_fixed\z9\IRepository\bin\Debug\net8.0\IRepository.dll
+C:\Users\Maria Leonczuk\Downloads\z9_fixed_2\z9_fixed\z9_fixed\z9\IRepository\bin\Debug\net8.0\IRepository.pdb
+C:\Users\Maria Leonczuk\Downloads\z9_fixed_2\z9_fixed\z9_fixed\z9\IRepository\bin\Debug\net8.0\Models.dll
+C:\Users\Maria Leonczuk\Downloads\z9_fixed_2\z9_fixed\z9_fixed\z9\IRepository\bin\Debug\net8.0\Models.pdb
+C:\Users\Maria Leonczuk\Downloads\z9_fixed_2\z9_fixed\z9_fixed\z9\IRepository\obj\Debug\net8.0\IRepository.csproj.AssemblyReference.cache
+C:\Users\Maria Leonczuk\Downloads\z9_fixed_2\z9_fixed\z9_fixed\z9\IRepository\obj\Debug\net8.0\IRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maria Leonczuk\Downloads\z9_fixed_2\z9_fixed\z9_fixed\z9\IRepository\obj\Debug\net8.0\IRepository.AssemblyInfoInputs.cache
+C:\Users\Maria Leonczuk\Downloads\z9_fixed_2\z9_fixed\z9_fixed\z9\IRepository\obj\Debug\net8.0\IRepository.AssemblyInfo.cs
+C:\Users\Maria Leonczuk\Downloads\z9_fixed_2\z9_fixed\z9_fixed\z9\IRepository\obj\Debug\net8.0\IRepository.csproj.CoreCompileInputs.cache
+C:\Users\Maria Leonczuk\Downloads\z9_fixed_2\z9_fixed\z9_fixed\z9\IRepository\obj\Debug\net8.0\IRepository.sourcelink.json
+C:\Users\Maria Leonczuk\Downloads\z9_fixed_2\z9_fixed\z9_fixed\z9\IRepository\obj\Debug\net8.0\IReposit.1D40EF52.Up2Date
+C:\Users\Maria Leonczuk\Downloads\z9_fixed_2\z9_fixed\z9_fixed\z9\IRepository\obj\Debug\net8.0\IRepository.dll
+C:\Users\Maria Leonczuk\Downloads\z9_fixed_2\z9_fixed\z9_fixed\z9\IRepository\obj\Debug\net8.0\refint\IRepository.dll
+C:\Users\Maria Leonczuk\Downloads\z9_fixed_2\z9_fixed\z9_fixed\z9\IRepository\obj\Debug\net8.0\IRepository.pdb
+C:\Users\Maria Leonczuk\Downloads\z9_fixed_2\z9_fixed\z9_fixed\z9\IRepository\obj\Debug\net8.0\IRepository.genruntimeconfig.cache
+C:\Users\Maria Leonczuk\Downloads\z9_fixed_2\z9_fixed\z9_fixed\z9\IRepository\obj\Debug\net8.0\ref\IRepository.dll
